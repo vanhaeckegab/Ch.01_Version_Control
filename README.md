@@ -1,3 +1,1 @@
-# Chapter 1 - Version Control Systems and Github
-
-https://lh6.googleusercontent.com/m3d-Lmx1sH0bcmO770KIDIhvi-QnsWRBpAEzgYxI8odHlUZfY4MvqUfPDtPIdvJM1SsaZfuRwlSifefG1AflqWlsZNjD_7eJ-VtKBnL3abSyogiFbFI=w271
+<img align="left" src="http://hermonswebsites.com/Classes/CS/python.png"><h1><a href="https://sites.google.com/urbandaleschools.com/pythonjedi/1-github" target="_blank">Chapter 1 Version Control Systems and Github</a></h1>
