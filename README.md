@@ -1,1 +1,1 @@
-<img align="left" src="http://hermonswebsites.com/Classes/CS/python.png"><h1><a href="https://sites.google.com/urbandaleschools.com/pythonjedi/1-github" target="_blank">Chapter 1 Version Control Systems and Github</a></h1>
+<img align="left" src="http://hermonswebsites.com/Classes/CS/python.png"><H2><a href="https://sites.google.com/urbandaleschools.com/pythonjedi/1-github" target="_blank">Chapter 1 Version Control Systems and Github</a></H2>
