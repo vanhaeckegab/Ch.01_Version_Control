@@ -67,8 +67,8 @@ Define Merging:
 Define Pushing:
 Define Pull Request:
 -----------------------------------------------
-Student 7:
-Full Name:
+Student 7: This is my master branch
+Full Name: Jackson Rutto
 Define Forking:
 Define Cloning:
 Define Branching:
