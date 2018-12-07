@@ -47,7 +47,7 @@ Define Merging:
 Define Pushing:
 Define Pull Request:
 -----------------------------------------------
-Student 5: This is the branch
+Student 5: My blood hurts
 Full Name: Varun Vepa
 Define Forking:
 Define Cloning:
