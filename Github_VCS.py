@@ -67,7 +67,7 @@ Define Merging:
 Define Pushing:
 Define Pull Request:
 -----------------------------------------------
-Student 7: This is my testing branch epic
+Student 7: I am awesome
 Full Name: Jackson Rutto
 Define Forking:
 Define Cloning:
