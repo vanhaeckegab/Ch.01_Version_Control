@@ -1,3 +1,12 @@
+
+
+
+
+
+
+
+
+
 '''
 Each student has 10 lines of code to play with!
 
@@ -17,7 +26,7 @@ Define Merging:
 Define Pushing:
 Define Pull Request:
 -----------------------------------------------
-Student 2:
+Student 2: this is my master branch
 Full Name:
 Define Forking:
 Define Cloning:
