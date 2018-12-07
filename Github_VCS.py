@@ -37,8 +37,8 @@ Define Merging:
 Define Pushing:
 Define Pull Request:
 -----------------------------------------------
-Student 4: This is my master branch blah
-Full Name: Alexander Randall
+Student 4: This is my epic testing branch
+Full Name: Alex Randall
 Define Forking:
 Define Cloning:
 Define Branching:
