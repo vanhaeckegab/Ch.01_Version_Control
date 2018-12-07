@@ -47,8 +47,8 @@ Define Merging:
 Define Pushing:
 Define Pull Request:
 -----------------------------------------------
-Student 5:
-Full Name:
+Student 5: Varun
+Full Name: Varun Vepa
 Define Forking:
 Define Cloning:
 Define Branching:
