@@ -37,7 +37,7 @@ Define Merging:
 Define Pushing:
 Define Pull Request:
 -----------------------------------------------
-Student 4: This is my master branch blah
+Student 4: This is my master branch
 Full Name: Alexander Randall
 Define Forking:
 Define Cloning:
