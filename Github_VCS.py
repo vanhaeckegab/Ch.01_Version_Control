@@ -27,7 +27,7 @@ Define Merging:
 Define Pushing:
 Define Pull Request:
 -----------------------------------------------
-Student 3: This is my testing branch Epic
+Student 3: I am epic awesome
 Full Name: Eddie Agic
 Define Forking:
 Define Cloning:
