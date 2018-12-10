@@ -47,7 +47,7 @@ Define Merging:
 Define Pushing:
 Define Pull Request:
 -----------------------------------------------
-Student 5: My blood
+Student 5: Varun
 Full Name: Varun Vepa
 Define Forking: taking a copy of someone else's repository and putting it on your account
 Define Cloning: making a copy of that repository on a local machine
