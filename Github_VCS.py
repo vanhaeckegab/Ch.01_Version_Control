@@ -67,15 +67,15 @@ Define Merging:
 Define Pushing:
 Define Pull Request:
 -----------------------------------------------
-Student 7: This is my master branch
+Student 7:
 Full Name: Jackson Rutto
-Define Forking:
-Define Cloning:
-Define Branching:
-Define Committing:
-Define Merging:
-Define Pushing:
-Define Pull Request:
+Define Forking: Copying a repository from someone else's account to my github account
+Define Cloning: Copying a repository from my github account to my computer
+Define Branching: Create multiple lines of parallel code
+Define Committing: Saving with checkpoints that you could return to if you need
+Define Merging: Merging my branch back into the master branch
+Define Pushing: Send our commits out to our remote repository
+Define Pull Request: Asking the original repository owner to pull in our forked code
 -----------------------------------------------
 Student 8:
 Full Name:
