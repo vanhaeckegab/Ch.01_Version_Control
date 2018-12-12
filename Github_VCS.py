@@ -88,14 +88,14 @@ Define Pushing: Send our commits out to our remote repository
 Define Pull Request: Asking the original repository owner to pull in our forked code
 -----------------------------------------------
 Student 9:
-Full Name:
-Define Forking:
-Define Cloning:
-Define Branching:
-Define Committing:
-Define Merging:
-Define Pushing:
-Define Pull Request:
+Full Name: Darius Brown
+Define Forking: Making a copy from one github account to yours
+Define Cloning: Copying the repository to my computer
+Define Branching: Making a new path that diverges from the master line
+Define Committing: Saving a checkpoint
+Define Merging: Converging the testing branch back into the master
+Define Pushing: uploading to repository
+Define Pull Request: asking to team leader to merge.
 -----------------------------------------------
 
 
