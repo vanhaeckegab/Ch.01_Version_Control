@@ -4,4 +4,19 @@ but I will definitely not ask another person except the instructor. Signed: ____
 
 
 
+Define Forking: 
+
+Define Cloning: 
+
+Define Branching:
+
+Define Committing: 
+
+Define Merging: 
+
+Define Pushing:
+
+Define Pull Request:
+
+
 ''
