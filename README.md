@@ -6,6 +6,7 @@ In this chapter you will be practicing forking, cloning, branching, committing, 
 
 <h3>Jedi Tasks</h3>
 <ol>
+    <li><b>Ch. 1 Jedi Training</b></li>
   <li><b>Github_VCS.py</b> - You will be assigned 10 lines of code in the Github_VCS.py file in this repository to practice the VCS workflow. You will be completed with this Jedi Task when your instructor can respond to your pull request without any merging conflicts.</li>
-  <li><b>Ch. 1 Jedi Training</b></li>
+
   </ol>
