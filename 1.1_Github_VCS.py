@@ -110,13 +110,13 @@ Each student has 10 lines of code to play with!
 ------------------Student 11------------------
 This is the testing branch
 Cal Watson
-
-
-
-
-
-
-
+Where I want to go to college: The University of Oklahoma
+Intended Major: Meteorology
+Favorite Movie Saga: Star Wars
+Favorite TV Series: The Big Bang Theory
+If I could travel anywhere: Australia
+Favorite sport: Baseball
+Favorite music: Country
 ------------------Student 12------------------
 
 
