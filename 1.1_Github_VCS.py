@@ -49,14 +49,14 @@ Favorite color is black
 
 ------------------Student 05------------------
 This is the master branch
-Peggy
-Jhawks
-
-
-
-
-
-
+Peggy Y. Barley
+Go Jhawks
+I like moth orchids, riddles, and random facts
+Lemon meringue pie is the best type of pie
+I'm from Sweden, and I speak Swedish and English
+Solitaire, hanjie, and sudoku is actually really fun
+Horror movies/books are the best
+I really like the Joker and Pennywise, they seem fun
 ------------------Student 06------------------
 This is the testing branch
 Matthew Place
