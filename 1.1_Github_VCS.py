@@ -118,15 +118,15 @@ If I could travel anywhere: Australia
 Favorite sport: Baseball
 Favorite music: Country
 ------------------Student 12------------------
-
-
-
-
-
-
-
-
-
+This is the testing branch
+Emma E. Moritz
+Go hawks!
+I weld
+Im not going to collage
+I don't enjoy school
+I enjoy your class
+I'm going to enjoy this class
+This year is going to be stressful
 ------------------Student 13------------------
 
 
