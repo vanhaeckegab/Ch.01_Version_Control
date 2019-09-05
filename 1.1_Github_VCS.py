@@ -168,13 +168,13 @@ This year is going to be stressful
 
 
 ------------------Student 17------------------
-
-
-
-
-
-
-
+Drake Kimmer
+Senior
+Love watching tv shows
+I play soccer
+Varsity Bowler
+hate school
+living life to the fullest
 
 
 ------------------Student 18------------------
