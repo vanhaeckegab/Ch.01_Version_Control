@@ -68,11 +68,11 @@ fish
 
 
 ------------------Student 07------------------
-
-
-
-
-
+Roses are red
+Coding is fun
+Lets do some coding
+Before class is done
+-Tristan
 
 
 
