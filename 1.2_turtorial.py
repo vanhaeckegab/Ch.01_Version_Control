@@ -1,6 +1,8 @@
 '''
 Modify the starter code below to create your own cool drawing
-and then Pull Request it to your instructor.
+and then Pull Request it to your instructor. Make sure you
+keep the last two lines of code. Your name must be written on your art.
+The last line keeps the window open until you click to close.
 
 Turtle Documentation: https://docs.python.org/3.3/library/turtle.html?highlight=turtle
 
@@ -27,7 +29,7 @@ yoda.penup()
 yoda.setpos(200,-300)
 yoda.pendown()
 yoda.pencolor('#00FF00')
+
+
 yoda.write('Sign Your Name Here',font=("Arial", 12, "normal"))
-
-
 turtle.exitonclick() #Keeps pycharm window open
