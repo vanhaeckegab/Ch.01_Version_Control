@@ -81,12 +81,12 @@ Before class is done
 This is the testing branch
 Catherine Clifford
 I have biology first period.
-
-
-
-
-
-
+attempt 2
+making a change
+fun fact
+currently adding more comments about myself
+attempt 3
+aksjdfhkjsahf
 ------------------Student 09------------------
 This is the testing branch
 Julie Pham
