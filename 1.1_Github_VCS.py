@@ -158,13 +158,14 @@ This year is going to be stressful
 
 
 ------------------Student 16------------------
-
-
-
-
-
-
-
+Caleb Hews
+Senior
+I am a member in Studio 2020
+I am helping Pizzazz and Vitality
+I play baseball
+I am planning on going to ISU
+I will be studying Aerospace Engineering
+This is my third and Final PLTW Course at the high school
 
 
 ------------------Student 17------------------
