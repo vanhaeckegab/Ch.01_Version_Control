@@ -18,15 +18,15 @@ fish
 
 
 ------------------Student 02------------------
-
-
-
-
-
-
-
-
-
+This is the master branch
+Danny Halstead is Epic!
+Go Vikings!!!!!!!!!!!!!!
+Fishing is good
+I have no idea what to write
+I hope u enjoyed reading this
+Ten lines is a lot honestly
+I hope im doing this right
+This line has five words
 ------------------Student 03------------------
 
 
