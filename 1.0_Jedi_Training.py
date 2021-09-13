@@ -1,21 +1,20 @@
 '''
-Sign your name:________________
+Sign your name:Gabe Van Haecke
+a comment
 
 
+Define Forking: It makes a copy of a repository on your own account.
 
-Define Forking: 
+Define Cloning: Cloning puts a copy from your account onto your computer
 
-Define Cloning: 
+Define Branching: Allows you to make multiple versions of a code, in order to test things
 
-Define Branching:
+Define Committing: Confirms your changes and saves your code
 
-Define Committing: 
+Define Merging: Combines a branch with a main file
 
-Define Merging: 
+Define Pushing: Sends code back to the cloud
 
-Define Pushing:
-
-Define Pull Request:
-
+Define Pull Request: A request to merge your code with a master copy
 
 '''
