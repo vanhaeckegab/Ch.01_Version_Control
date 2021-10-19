@@ -1,7 +1,9 @@
-import turtle
-sides = int(input("lines"))
-for i in range(sides): turtle.forward(100), turtle.left(360/sides)
-turtle.exitonclick()
+
+# Few lines polygon
+# import turtle
+# sides = int(input("lines"))
+# for i in range(sides): turtle.forward(100), turtle.left(360/sides)
+# turtle.exitonclick()
 
 # HELLO
 # screen = turtle.Screen()  # makes a screen object
@@ -59,6 +61,7 @@ turtle.exitonclick()
 # ed.goto(350,-100)
 # ed.pd()
 # ed.circle(100)\
+
 # AMOGUS
 # ed.pensize(200)  # width of pen line
 # ed.speed(10)  # speed of drawing. Go fast to not waste time.
@@ -86,7 +89,7 @@ turtle.exitonclick()
 # ed.pu()
 #
 # ed.pensize(400)
-# ed.color("orangered")
+# ed.color("orange red")
 # ed.goto(0, 150)
 # ed.pd()
 # ed.fd(125)
@@ -101,7 +104,7 @@ turtle.exitonclick()
 #
 # ed.pensize(100)
 # ed.goto(-150, 0)
-# ed.color("orangered")
+# ed.color("orange red")
 # ed.pd()
 # ed.fd(225)
 # ed.pu()
@@ -115,13 +118,13 @@ turtle.exitonclick()
 #
 # ed.pensize(100)
 # ed.goto(150, 0)
-# ed.color("orangered")
+# ed.color("orange red")
 # ed.pd()
 # ed.fd(225)
 # ed.pu()
 #
 # ed.pensize(400)
-# ed.color("orangered")
+# ed.color("orange red")
 # ed.goto(0, 150)
 # ed.pd()
 # ed.fd(125)
